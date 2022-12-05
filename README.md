@@ -19,4 +19,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px"/>
 </div>
 
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepaPog)](https://github.com/anuraghazra/github-readme-stats)
