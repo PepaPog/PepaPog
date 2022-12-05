@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepaPog)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepaPog&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
