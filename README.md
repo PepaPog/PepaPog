@@ -9,6 +9,9 @@ PepaPog/PepaPog is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepaPog&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
 <h2>🔧Languages and Tools🛠️</h2>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
@@ -19,6 +22,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px"/>
 </div>
 
-<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepaPog&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
